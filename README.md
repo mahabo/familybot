@@ -2,4 +2,5 @@
 simple GPT and Dall-E bot
 
 
-![](fb-demo.mp4)
+[![Demo CountPages alpha](fb-demo.mp4)
+ 
